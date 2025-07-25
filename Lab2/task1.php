@@ -2,7 +2,7 @@
 <html>
     <body>
         <h1>
-            php the php_check_syntax
+            php the php_check_syntaxs
         </h1>
     </body>
 </html>  
